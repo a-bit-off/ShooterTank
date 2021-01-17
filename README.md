@@ -7,5 +7,5 @@ Shooter Tank - мобильная игра под платформу android
 
 Есть вопрос, - обращайся! https://teleg.run/Abitoff
 
-<img src="https://github.com/a-bit-off/ShooterTank/blob/main/materials/tank.gif" width="600" />
+<img src="https://github.com/a-bit-off/ShooterTank/blob/main/materials/tank.gif" width="900" />
 
